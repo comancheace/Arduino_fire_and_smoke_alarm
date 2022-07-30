@@ -52,7 +52,4 @@ void loop() {
   
   Serial.println("");
   delay(1000); // wait 2s for next reading
-
-  
-
 }
