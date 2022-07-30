@@ -1,4 +1,4 @@
-#define MQ2pin 0 // KY-026 analog interface
+#define MQ2pin 0 // MQ-2 analog interface
 #define digitalPin 2 // KY-026 digital interface
 int digitalVal; // digital readings
 int Buzzer = 10; // Connect buzzer pin to 10
