@@ -1,7 +1,7 @@
 # Arduino Fire and Smoke Alarm
 Arduino Fire and Smoke Alarm
 
-<img src="https://github.com/comancheace/Arduino_fire_and_smoke_alarm/blob/main/fire_and_smoke_alarm_bb.png" width="100%">
+<img src="https://github.com/comancheace/Arduino_fire_and_smoke_alarm/blob/main/fire_and_smoke_alarm_bb_2.png" width="100%">
 
 Attention Please!
 
